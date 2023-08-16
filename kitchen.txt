@@ -1,0 +1,5 @@
+ Table No : 5
+ No              Name                              Quantity
+------------------------------------------------------------
+ 1. Chicken Carbonara Spaghetti                        2
+ 2. Mushroom Sauce Spaghetti                           4
